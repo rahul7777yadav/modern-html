@@ -1,0 +1,72 @@
+1. List out the Features of HTML5
+Answer: Here is some features of HTML5:
+1. User-friendly: HTML is a user-friendly and simple language. Tags in HTML helps programmers to build a structure easily. There are plenty of in-built tags that make it easier for us to read the content and style them as per our needs.
+
+2. Semantic Elements: A semantic element’s name clearly defines its content. HTML includes tags for annotating certain elements for their special uses. For example, <article> describes the content on a page, <table> indicates the text stored in a tabular form, <time>, etc.
+
+3. Media support: We can easily add videos, audios, and pictures to our web page with the help of HTML. Tags like <video>, <audio>, <figure>, and <img> can be used to display media.
+
+4. Platform Independent: HTML is not platform-dependent, as web pages can be displayed on any operating system like macOS, Windows, etc using a browser.
+
+5. SEO – Search Engine Optimisation: As HTML is very well-structured, and we can optimise our HTML pages for searchability. The different search engines can collect data on the World Wide Web using web crawlers and map keywords with their respective documents.
+
+6. Case Insensitive: One of the important features is that it is case-insensitive. So we cannot make mistakes with tags by writing them in uppercase or lowercase.
+
+7. Game Development: HTML can be used to build simple 2D and 3D games. The <canvas> tag can be used along with CSS (Cascading Style Sheets) and JavaScript to create and design good games.
+
+**********************************************************************************************************************************************************
+
+2. What are the HTML Entities? List out 5 commonly used HTML Entities.
+Answer: An HTML entity is used to display invisible characters and reserved characters that would otherwise be interpreted as HTML code. It is a piece of text, or string, that begins with an ampersand ( & ) and ends with a semicolon ( ; )
+5 commonly used HTML Entities
+&lt; is called less than and denoted by this <
+
+&gt; is called greater than and denoted by this >
+
+&copy; is called copyright and denoted by this ©
+
+&doller; is called dollar and denoted by this $
+
+&euro; is called euro and denoted by this €
+
+**********************************************************************************************************************************************************
+
+3. Define accessibility in the context of web development. Discuss why it's essential to create accessible websites and how it benefits different user groups
+Answer: Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can: perceive, understand, navigate, and interact with the Web. contribute to the Web.
+It's essential because of following reasons:
+
+Increased website traffic: Businesses need to realize that an accessible website will provide equal access to those with physical deformities, cognitive impairments, and ordinary people. So by letting everyone visit and use their site, their traffic rates naturally increase with time.
+
+Reduced risk of legal complications: With the high and more challenging legal requirements regarding web accessibility, optimizing your site for people with disabilities makes good business sense. Ensuring your site meets your industry’s specific accessibility standards reduces the risks of facing legal complications and possible prosecution. You don’t provide a reason for anyone to place a case against you for not providing them access to your web content.
+
+Helps develop an innovative business mindset: As you optimize your web design for accessibility, you must stay creative and innovative to keep up and adapt your web design to ensure it conforms to the constantly changing trends. This, in turn, proves beneficial to your business as you have to keep yourself updated with the latest trends.
+
+Helps you reach a broader audience: It is simply good business sense to have a site everyone can access. You not only get more traffic, but they are also from a wider audience.
+
+Benefits of user groups
+
+People with Visual Disabilities: Blind - unable to see visual information and Color deficiency
+
+People with Mobility/Motor/Dexterity Disabilities: People with Mobility/Motor/Dexterity disabilities have difficulty moving one or more parts of the body. Where web design and development is concerned, this usually involves a disability involving the hands and/or arms
+
+People Who are Deaf or Hard of Hearing: Assistive technology that this group utilizes include captioning and transcripts.
+
+People with Cognitive Disabilities:  Cognitive disabilities impact the ability to access, process or remember information; and limits the ability to perceive, recognize, understand, interpret or respond to information. The assistive technologies that this group uses include word prediction aids, reading/writing comprehension aids.
+
+**********************************************************************************************************************************************************
+
+4. List any 3 ways which help us in improving the accessibility of HTML
+Answer: 
+Semantic HTML : Semantic HTML means using correct HTML elements for their correct purpose as much as possible. Semantic elements are elements with a meaning; if you need a button, use the <button> element (and not a <div> element).
+
+Headings Are Important: Headings are defined with the <h1> to <h6> tags
+
+Declare the Language: You should always include the lang attribute inside the <html> tag, to declare the language of the Web page. This is meant to assist search engines and browsers.
+
+**********************************************************************************************************************************************************
+
+
+
+
+
+
